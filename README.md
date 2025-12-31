@@ -7,6 +7,11 @@
 ---
 
 ## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures-green)
+
 - **Python**
 - **Front-End:** HTML, CSS
 - **DSA:** Data Structures & Algorithms (Basics – Intermediate)
