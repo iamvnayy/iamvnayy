@@ -24,14 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvnayy&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvnayy&layout=compact)
-
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vinay-kumar-71615b167/
